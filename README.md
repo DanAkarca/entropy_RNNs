@@ -1,4 +1,5 @@
-Repo for: Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics
+Repo for: 
+Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics
 
 Coming soon...
 
@@ -14,5 +15,7 @@ Jascha Achterberg1,5+, Danyal Akarca1,6,7+
 7.	I-X, Imperial College London, UK
 
 *Co-lead authors
+
 +Co-lead senior authors
+
 Corresponding author: Danyal Akarca (d.akarca@imperial.ac.uk) 
