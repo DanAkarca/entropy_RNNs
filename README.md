@@ -3,7 +3,7 @@ Spatial embedding promotes a specific form of modularity with low entropy and he
 
 Coming soon...
 
-Cornelia Sheeran* [1,2], Andrew S. Ham* [1,3], Duncan, E. Astle [1,4], 
+Cornelia Sheeran* [1,2], Andrew S. Ham* [1,3], Duncan E. Astle [1,4], 
 Jascha Achterberg+ [1,5], Danyal Akarca+ [1,6,7]
   
 1.	MRC Cognition and Brain Sciences Unit, University of Cambridge, UK
