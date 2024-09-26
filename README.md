@@ -1,6 +1,4 @@
-Demo and replication code for:
-
-## Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics
+# Demo and replication code for: **Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics**
 
 Cornelia Sheeran* [1,2], Andrew S. Ham* [1,3], Duncan E. Astle [1,4], 
 Jascha Achterberg+ [1,5], Danyal Akarca+ [1,6,7]
@@ -19,7 +17,7 @@ For the corresponding data, please see: https://osf.io/vw2ac/
 
 <img width="1360" alt="figure_1" src="https://github.com/user-attachments/assets/92631003-68d4-4400-94f1-23504f5a8ad4">
 
-# Contents
+## Contents
 
 - seRSNN_demo.ipynb - notebook demo for training spatially embedded spiking RNNs using snnTorch
 
