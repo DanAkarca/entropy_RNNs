@@ -12,8 +12,8 @@ Jascha Achterberg+ [1,5], Danyal Akarca+ [1,6,7]
 6.	Department of Electrical and Electronic Engineering, Imperial College London, UK
 7.	I-X, Imperial College London, UK
 
-* Co-lead authors
+* Co-lead authors, + Co-lead senior authors, Corresponding author: Danyal Akarca (d.akarca@imperial.ac.uk)
 
-+ Co-lead senior authors
+For the corresponding data, please see: https://osf.io/vw2ac/
 
-Corresponding author: Danyal Akarca (d.akarca@imperial.ac.uk) 
+<img width="1360" alt="figure_1" src="https://github.com/user-attachments/assets/92631003-68d4-4400-94f1-23504f5a8ad4">
