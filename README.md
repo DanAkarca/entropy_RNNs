@@ -1,4 +1,4 @@
-**Demo and replication code for:**
+**Demo and replication code for: https://arxiv.org/abs/2409.17693**
 # Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics
 
 Cornelia Sheeran* [1,2], Andrew S. Ham* [1,3], Duncan E. Astle [1,4], 
